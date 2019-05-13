@@ -4,7 +4,7 @@ This extension provides a seamless user experience for EXLcode and Chrome browse
 
 It can be found in the Chrome Web Store [here](https://chrome.google.com/webstore/detail/exlcode-vs-code-based-onl/elcfpiphmolcddmecegalaikjiclhdjc?hl=en)
 
-## Feedback
+###################### Feedback
 
 Please provide feedback and bug reports via GitHub issues in this repo
 
